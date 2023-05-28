@@ -6,6 +6,9 @@ public class Add {
 		int a=10;
 		int b=20;
 		System.out.println("Addition:"+(a+b));
+		// add from github
+		a=30;
+		b=40;
 	}
 
 }
